@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;    rgb(218, 219, 145)
+}
+
+h1{
+    color:red; font-family: Verdana;
+}    
+
+h2{
+    color: blue; font-family: Arial;
+}    
+a{
+    text-decoration: none;
+}
+#p2{
+    text-align: center;
+}
